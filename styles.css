@@ -90,7 +90,7 @@ aside{
     li{
         border-right: 0.2px solid gray;
         margin: 0px 2px;
-        padding: 5px;
+        padding: 0px;
     
     }
     nav li:last-child{
