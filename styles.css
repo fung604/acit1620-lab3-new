@@ -82,7 +82,7 @@ aside{
 @media screen and (max-width: 600px)
 {
     nav ul{
-        display: flex;
+        display: inline-flex;
         flex-direction:row;
         align-items: flex-start;
         padding-left: 0;
