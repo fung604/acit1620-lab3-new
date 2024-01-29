@@ -30,6 +30,7 @@ form button {
     width: 5rem;
     margin-left: auto;
 }
+
 /* HEADER STYLES*/
 header, footer{
     background-color: teal;
@@ -73,7 +74,6 @@ aside{
     float:left;
     margin-bottom: 20rem;
 }
-
 .contact_page {
     display:flex;
     flex-direction: column;
@@ -88,7 +88,7 @@ aside{
         padding-left: 0;
     }
     li{
-        border-right: 0.2px solid gray;
+        border-right: 0.2px solid black;
         margin: 0px 2px;
         padding: 0px;
     
