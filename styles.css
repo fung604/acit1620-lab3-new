@@ -92,5 +92,34 @@ aside{
     margin-bottom: 20rem;
 
 }
-
+.form_contact {
+    display:flex;
+    flex-direction: column;
+    width: 100%;
+}
+@media screen and (max-width: 600px)
+{
+    nav ul{
+        display: flex;
+        flex-direction:row;
+        align-items: flex-start;
+        padding-left: 0;
+    }
+    li{
+        border-right: 0.2px solid gray;
+        margin: 0px 2px;
+        padding: 5px;
+    
+    }
+    nav li:last-child{
+        border-right:none;
+    }
+    .main-content{
+        display:flex;
+        flex-direction:column;
+    }
+    .img{
+        max-width: 30%;
+    }
+}
 
