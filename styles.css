@@ -71,15 +71,27 @@ li{
     margin-left: 0rem;
     text-align: right;
 }
+
+.column1of2 {
+    float:left;
+    width:100px;
+    margin:10px;
+}
+.column2of2 {
+    float:left;
+    margin: 10px;
+}
 .img{
     width: 11rem;
     height: auto;
     float: left; 
-    padding-right: 1rem;
+    padding-right: 1em;
     margin-right: 10px;
 }
 aside{
     float:left;
+    margin-bottom: 20rem;
+
 }
 
 
