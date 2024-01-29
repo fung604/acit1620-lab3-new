@@ -97,7 +97,7 @@ aside{
         border-right:none;
     }
     .content{
-        display:flex;
+        display:inline-flex;
         flex-direction:column;
     }
     .img{
