@@ -57,9 +57,10 @@ li{
     text-align: right
 }
 footer{
-    position: absolute;
+    display: flex;
+    justify-content: center;
+    position: static;
     color: white;
-    bottom: 0; 
     width: 100%
 }
 .img{
